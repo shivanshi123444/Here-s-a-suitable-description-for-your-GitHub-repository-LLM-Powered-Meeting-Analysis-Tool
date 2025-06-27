@@ -1,0 +1,2 @@
+# Here-s-a-suitable-description-for-your-GitHub-repository-LLM-Powered-Meeting-Analysis-Tool
+LLM-Powered Meeting Analysis Tool: Web app processes speech transcripts to generate concise summaries, extract actionable items (with owners/deadlines), and highlight key insights/speaker attribution. Built with Python (FastAPI) &amp; HTML/CSS/JS. Transforms raw transcripts into structured, actionable outputs. 
